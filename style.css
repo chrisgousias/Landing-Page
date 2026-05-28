@@ -1,0 +1,12 @@
+button {
+    color:white;
+    background-color: royalblue;
+    padding: 2;
+}
+
+.button {
+    border-color: white;
+    border: 4px;
+    border-radius: 3px;
+    
+}
