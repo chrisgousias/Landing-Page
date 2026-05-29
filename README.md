@@ -1,1 +1,1 @@
-This is an exercise about how to make the HTML and CSS code of a webpage that is being shown to users from a picture.
+1.   This is an exercise about how to make the HTML and CSS code of a webpage that is being shown to users from a picture.
